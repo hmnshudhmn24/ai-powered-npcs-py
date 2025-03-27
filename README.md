@@ -35,6 +35,3 @@ python ai_powered_npcs.py
 - If an NPC detects another NPC within a defined radius, it changes its target to avoid collision.
 - The NPCs continuously update their targets and positions to create dynamic movement.
 - The environment is displayed using Pygame.
-
-## License
-This project is open-source and free to use.
